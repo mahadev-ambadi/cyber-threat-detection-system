@@ -1,0 +1,1702 @@
+[
+    {
+        "timestamp": "2025-12-14 17:24:39",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:24:39",
+        "message": "High entropy detected (8.00) - Possible encryption: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 90
+    },
+    {
+        "timestamp": "2025-12-14 17:24:39",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:24:39",
+        "message": "High entropy detected (8.00) - Possible encryption: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 90
+    },
+    {
+        "timestamp": "2025-12-14 17:25:49",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\monitoring\\risk_manager.py",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:26:25",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\New Text Document.txt",
+        "score": 30
+    },
+    {
+        "timestamp": "2025-12-14 17:26:34",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\New Text Document.txt",
+        "score": 30
+    },
+    {
+        "timestamp": "2025-12-14 17:26:40",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\New Text Document.txt",
+        "score": 30
+    },
+    {
+        "timestamp": "2025-12-14 17:26:57",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\helloo.txt.txt",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:27:00",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\qow.txt.txt",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:27:03",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\hgdj.txt.txt",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:31:42",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\monitoring\\file_monitor.py",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:17",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:17",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:22",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:22",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:23",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:23",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:24",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:24",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:25",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:25",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:26",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:26",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:27",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:27",
+        "message": "Suspicious burst detected! 11 events in 5s",
+        "score": 80
+    },
+    {
+        "timestamp": "2025-12-14 17:35:27",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:35:27",
+        "message": "Suspicious burst detected! 12 events in 5s",
+        "score": 80
+    },
+    {
+        "timestamp": "2025-12-14 17:48:21",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:48:21",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:48:26",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:48:26",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:48:38",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 17:48:38",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 18:18:53",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\helloo.txt.txt",
+        "score": 40
+    },
+    {
+        "timestamp": "2025-12-14 18:18:54",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\monitoring",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 18:18:54",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates",
+        "score": 20
+    },
+    {
+        "timestamp": "2025-12-14 18:18:56",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\qow.txt.txt",
+        "score": 40
+    },
+    {
+        "timestamp": "2025-12-14 18:19:00",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\hgdj.txt.txt",
+        "score": 40
+    },
+    {
+        "timestamp": "2025-12-14 18:21:32",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\New Text Document.txt",
+        "score": 30
+    },
+    {
+        "timestamp": "2025-12-14 18:21:45",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\New Text Document.txt",
+        "score": 30
+    },
+    {
+        "timestamp": "2025-12-14 18:21:54",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\New Text Document.txt",
+        "score": 30
+    },
+    {
+        "timestamp": "2025-12-14 18:35:09",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\ghbj.txt.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2025-12-14 18:35:09",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\sdfgh.txt.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2025-12-14 18:35:09",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\hgfds.txt.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2025-12-14 18:35:09",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\hgfd.txt.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2025-12-14 18:40:22",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\New Text Document.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2025-12-14 18:40:31",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\asdfghj.txt.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 18:40:38",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\asdfghj.txt.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2025-12-14 18:46:56",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\monitoring\\risk_manager.py",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:02:24",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:02:24",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:02:40",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:02:40",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:02:47",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:02:47",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:10:20",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:10:41",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\app.py",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:11:10",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:11:10",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:11:22",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:11:22",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:12:20",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:12:20",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 19:15:14",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:27:04",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\monitoring",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:27:04",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:27:09",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:27:10",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:34:59",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:34:59",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:36:45",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:37:16",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:37:22",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:41:15",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\app.py",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:48:16",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:48:16",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:48:17",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:48:17",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:48:25",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:48:25",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:48:26",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:48:26",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:48:33",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:48:41",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:48:47",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:48:54",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:49:03",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:55:09",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:55:09",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:55:23",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:55:23",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:56:06",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\New Text Document.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2025-12-14 21:56:12",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\New Text Document.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2025-12-14 21:56:22",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\New Text Document (2).txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2025-12-14 21:56:29",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\New Text Document.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:56:32",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\ertyu.txt.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:56:34",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\sdfghj.txt.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:56:46",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\sdfghj.txt.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2025-12-14 21:56:54",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\New Text Document.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2025-12-14 21:57:00",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\ertyu.txt.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2025-12-14 21:59:03",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 21:59:10",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:03:58",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:03:58",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:03:59",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:03:59",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:03:59",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:03:59",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:04:01",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:04:01",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:04:04",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:05:51",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\app.py",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:07:42",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:07:42",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:07:50",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:07:50",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-14 22:07:50",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates\\dashboard.html",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-16 11:01:30",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\templates",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-16 11:01:33",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-16 11:01:33",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-16 11:03:18",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-16 11:03:18",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-16 11:03:25",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-16 11:03:25",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-16 11:03:32",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2025-12-16 11:03:36",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 22:57:40",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\New Text Document.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 22:57:49",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\New Text Document.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 22:57:56",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\New Text Document.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 22:58:14",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\qwer.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 22:58:17",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\qwertyui.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 22:58:21",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\qwertyuio.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 23:06:37",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test1.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 23:06:37",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test2.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 23:06:37",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test3.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 23:06:37",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test4.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 23:06:37",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test5.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 23:06:40",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test6.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 23:06:47",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test7.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 23:06:52",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test8.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 23:06:58",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test9.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-15 23:09:16",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test1.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:16",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test2.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:16",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test3.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:16",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test4.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:16",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test5.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:16",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test6.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:16",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test7.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:17",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test8.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:19",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test9.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:25",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test10.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:30",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test11.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:36",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test12.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:41",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test13.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:46",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test14.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:51",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test15.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:09:56",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test16.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:10:02",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test17.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:10:07",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test18.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:10:13",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test19.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:10:18",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test20.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:10:25",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test21.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:10:31",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test22.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:10:37",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test23.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:10:42",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test24.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:10:49",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test25.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:10:55",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test26.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:11:01",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test27.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:11:07",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test28.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:11:12",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test29.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:11:17",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test30.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:11:23",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test31.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:11:28",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test32.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:11:34",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test33.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:11:39",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test34.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:11:45",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test35.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:11:50",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test36.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:11:55",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test37.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:12:01",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test38.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:12:06",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test39.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:12:13",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test40.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:12:18",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test41.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:12:24",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test42.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:12:29",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test43.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:12:35",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test44.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:12:41",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test45.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:12:47",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test46.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-15 23:12:53",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test47.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:37:34",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test1.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:37:34",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test2.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:37:34",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test3.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:37:34",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test4.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:37:34",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test5.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:37:34",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test6.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:37:35",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test7.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:37:35",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test8.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:37:38",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test9.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:37:44",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test10.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:37:50",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test11.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:37:55",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test12.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:38:00",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test13.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:38:05",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test14.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:38:11",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test15.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:38:17",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test16.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:38:22",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test17.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:38:27",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test18.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:38:32",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test19.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:38:38",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test20.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:38:44",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test21.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:38:50",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test22.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:38:56",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test23.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:39:01",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test24.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:39:07",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test25.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:39:14",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test26.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:39:20",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test27.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:39:26",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test28.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:39:31",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test29.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:39:37",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test30.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:39:39",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test31.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-16 09:39:39",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\test32.txt",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-02-23 13:41:06",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test51.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:41:06",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test52.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:41:07",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test53.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:41:07",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test54.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:41:07",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test55.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:41:11",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test56.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:41:17",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test57.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:41:23",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test58.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:41:29",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test59.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:41:35",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test60.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:41:41",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test61.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:41:47",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test62.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:41:52",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test63.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:41:58",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test64.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:42:05",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test65.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:42:11",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test66.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:42:17",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test67.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:42:22",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test68.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:42:28",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test69.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:42:34",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test70.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:42:39",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test71.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:42:45",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test72.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:42:50",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test73.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:17",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test1.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:17",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test2.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:17",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test3.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:17",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test4.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:17",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test5.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:20",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test6.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:25",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test7.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:28",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test8.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:28",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test9.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:29",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test10.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:33",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test1.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:33",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test2.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:33",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test3.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:33",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test4.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:33",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test5.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:36",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test6.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:39",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test7.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:39",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test8.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:39",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test9.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:39",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test10.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:47",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test1.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:53",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test2.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:53",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test3.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:53",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test4.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:53",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test5.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:53",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test6.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:43:57",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test7.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:44:00",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test8.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:44:00",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test9.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-02-23 13:44:00",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test10.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-03-09 19:01:59",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:01:59",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:02:52",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:02:53",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:02:53",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:03:00",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:03:00",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:03:18",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:03:23",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:05:46",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:05:46",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:05:47",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:05:47",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:05:47",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:05:47",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:05:48",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:05:48",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-09 19:05:51",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-10 09:42:53",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-10 09:42:53",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-10 09:42:54",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-10 09:42:54",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-10 09:42:54",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-10 09:43:01",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-10 09:43:02",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-10 09:43:02",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-10 09:43:05",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-10 09:43:12",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 07:37:09",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 07:38:21",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-03-12 07:43:50",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\test.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-03-12 07:47:44",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\text.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-03-12 07:47:58",
+        "message": "\u26a0 Ransomware Signature Detected: C:\\Users\\ssmah\\uirtds\\text1.locked",
+        "score": 70
+    },
+    {
+        "timestamp": "2026-03-12 07:48:04",
+        "message": "File Renamed: C:\\Users\\ssmah\\uirtds\\text.txt \u2192 C:\\Users\\ssmah\\uirtds\\text1.locked",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 07:48:33",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 07:48:33",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 07:48:34",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 07:48:34",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 07:48:35",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 07:48:35",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 07:48:35",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 07:48:35",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 07:49:42",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test.locked",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-03-12 07:49:48",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\test1.locked",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-03-12 07:49:54",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\text1.locked",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-03-12 11:35:15",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 11:35:15",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 11:35:16",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 11:35:16",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 11:35:16",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 11:35:16",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 11:35:17",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 11:35:17",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 11:35:27",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\text.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-03-12 11:35:32",
+        "message": "\u26a0 Ransomware Signature Detected: C:\\Users\\ssmah\\uirtds\\text1.locked",
+        "score": 70
+    },
+    {
+        "timestamp": "2026-03-12 11:35:39",
+        "message": "File Renamed: C:\\Users\\ssmah\\uirtds\\text.txt \u2192 C:\\Users\\ssmah\\uirtds\\text1.locked",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 12:03:12",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 12:03:12",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 12:03:13",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 12:03:13",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 12:03:13",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 12:03:13",
+        "message": "File Modified: C:\\Users\\ssmah\\uirtds\\encrypted_test.bin",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 12:03:33",
+        "message": "File Created: C:\\Users\\ssmah\\uirtds\\text.txt",
+        "score": 8
+    },
+    {
+        "timestamp": "2026-03-12 12:03:40",
+        "message": "\u26a0 Ransomware Signature Detected: C:\\Users\\ssmah\\uirtds\\text1.locked",
+        "score": 70
+    },
+    {
+        "timestamp": "2026-03-12 12:03:45",
+        "message": "File Renamed: C:\\Users\\ssmah\\uirtds\\text.txt \u2192 C:\\Users\\ssmah\\uirtds\\text1.locked",
+        "score": 5
+    },
+    {
+        "timestamp": "2026-03-12 12:04:33",
+        "message": "File Deleted: C:\\Users\\ssmah\\uirtds\\text1.locked",
+        "score": 8
+    }
+]
