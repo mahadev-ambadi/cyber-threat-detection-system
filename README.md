@@ -24,9 +24,3 @@ A real-time malware and anomaly detection system that monitors file system activ
 - Assigns risk score
 - Displays results in dashboard
 
-## ▶️ Run Locally
-```bash
-git clone https://github.com/your-username/cyber-threat-detection-system.git
-cd cyber-threat-detection-system
-pip install -r requirements.txt
-python app.py
